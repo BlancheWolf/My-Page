@@ -8,4 +8,13 @@ Ik ben gewoon Nederlands.
 Het is heel leuk en het gaat goed. 
 We hebben veel mensen geholpen en ze vonden het allemaal erg leuk.
 Ik kom op TV!! Zondag 15 mei op het zapp weekjournaal.
-We hebben nu eenuitleg waarbij de meeste mensen beginnen met Github.
+We hebben nu een uitleg waarbij de meeste mensen beginnen met Github.
+Hier wat code:
+Void Setup () {
+
+}
+Void loop () {
+
+}
+
+Dat was een stukje code.
