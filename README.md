@@ -9,7 +9,11 @@ Het is heel leuk en het gaat goed.
 We hebben veel mensen geholpen en ze vonden het allemaal erg leuk.
 Ik kom op TV!! Zondag 15 mei op het zapp weekjournaal.
 We hebben nu een uitleg waarbij de meeste mensen beginnen met Github.
+
+
 Hier wat code:
+
+
 Void Setup () {
 
 }
