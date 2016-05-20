@@ -30,6 +30,3 @@ Je kunt me altijd vragen stellen, ik sta open.
 Follow me!
 Als je dat doet.....
 I Like You!!
-
-
-https://s-media-cache-ak0.pinimg.com/236x/34/7a/7d/347a7d2921005751705e6cd6f79e81ad.jpg
