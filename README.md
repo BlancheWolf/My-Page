@@ -22,3 +22,9 @@ Void loop () {
 }
 
 Dat was een stukje code.
+
+Nog iets over mij, ik spreek Nederlands, beetje Engels en vrij goed Frans. Très bien!!!
+Je kunt me altijd vragen stellen, ik sta open.
+Follow me!
+Als je dat doet.....
+I Like You!!
