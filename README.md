@@ -33,5 +33,5 @@ I Like You!!
  ('')
 (____)
 
-Dit is Bunny, zij wil de wreld overheersen. Als jij haar op je profiel zet lukt dat!!
+Dit is Bunny, zij wil de wereld overheersen. Als jij haar op je profiel zet lukt dat!!
  
