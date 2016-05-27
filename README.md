@@ -29,8 +29,4 @@ Follow me!
 Als je dat doet.....
 I Like You!!
 
-~~^^~~
- ('')
-(____)
-
-Dit is Bunny, zij wil de wereld overheersen. Als jij haar op je profiel zet lukt dat!!
+(B,D)
