@@ -29,4 +29,4 @@ Follow me!
 Als je dat doet.....
 I Like You!!
 
-(B,D)
+(B^D)
