@@ -14,11 +14,15 @@ Hier wat code:
 
 
 void setup()
+
 {
+
 }
 
 void loop()
+
 {
+
 }
 
 Dat was een stukje code.
