@@ -13,12 +13,12 @@ We hebben nu een uitleg waarbij de meeste mensen beginnen met Github.
 Hier wat code:
 
 
-Void Setup () {
-
+void setup()
+{
 }
 
-Void loop () {
-
+void loop()
+{
 }
 
 Dat was een stukje code.
