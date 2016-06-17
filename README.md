@@ -47,11 +47,11 @@ Ik heb een vraag voor jullie: Wat doe je nu?
 
 Een lijst gaat zo:
 
--
+- A
 
--
+- B
 
--
+- C
 
 Trukies: Maak je profiel heeeeeel mooi!!
 
