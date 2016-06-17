@@ -36,4 +36,9 @@ I Like You!!
 (B^D)
 
 Ik ga met amaiam een robot platform laten rijden en hij reageert op licht!!!
-Nou ja, hij moet de zaklamp gaan volgen
+Nou ja, hij moet de zaklamp gaan volgen.
+Maar we maken er nog een kat van.
+
+Hoe maak je kortsluiting: Gooi water op iets waar stroom op staat.
+
+Hoe maak je jezelf statisch: Doe je vingers in het stopcontact.
