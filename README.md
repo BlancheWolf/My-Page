@@ -35,5 +35,5 @@ I Like You!!
 
 (B^D)
 
-Ik ga met @amaiam een robot platform laten rijden en hij reageert op licht!!!
+Ik ga met amaiam een robot platform laten rijden en hij reageert op licht!!!
 Nou ja, hij moet de zaklamp gaan volgen
