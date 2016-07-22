@@ -27,8 +27,6 @@ void loop()
 
 Dat was een stukje code.
 
-Je kunt me altijd vragen stellen, ik sta open.
-
 Follow me!
 Als je dat doet.....
 I Like You!!
