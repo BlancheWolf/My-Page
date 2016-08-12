@@ -54,3 +54,7 @@ Een lijst gaat zo:
 Trukies: Maak je profiel heeeeeel mooi!!
 
 Trukie: Follow everyone
+
+Trukie: Skip iedereen die je niet aardig lijkt :")
+
+Trukie: Doe niet te veel tegelijk: fietsen, praten, je haar doen en je hand uitsteken werkt niet samen ;)
