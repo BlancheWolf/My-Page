@@ -65,4 +65,4 @@ Trukie: Doe niet te veel tegelijk: fietsen, praten, je haar doen en je hand uits
 Hey hey als je op een dag als vandaag, 19 augustus, je verveeld moet je gewoon ff op Github gaan
 Dit helpt echt tegen de verveling :)
 Of ga iemand in Real Life lastig vallen met dingen over Github ;")
-Wat ook heel goed helpt is Arduino gaan doen, heel rustgevend ;)
+Wat ook heel goed helpt is Arduino gaan doen, heel rustgevend  :wink:
