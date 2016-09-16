@@ -71,3 +71,6 @@ Vandaag, 16 september, ga ik met amaiam bezig met ons robotautootje die reageert
 We gaan nu beginnen met de koppeling dus voor nu doei doei!!!!
 Oke hier ben ik weer, het gaat nog even duren dus nog ff wat op github zetten :)
 Maar kijk vooral even bij mijn vriendinnetje amaiam
+
+
+https://github.com/XnoemieX/amaiam/raw/master/20160521Maakplek2.jpg
