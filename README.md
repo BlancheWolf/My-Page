@@ -69,3 +69,5 @@ Wat ook heel goed helpt is Arduino gaan doen, heel rustgevend ;)
 
 Vandaag, 16 september, ga ik met amaiam bezig met ons robotautootje die reageert op licht
 We gaan nu beginnen met de koppeling dus voor nu doei doei!!!!
+Oke hier ben ik weer, het gaat nog even duren dus nog ff wat op github zetten :)
+Maar kijk vooral even bij mijn vriendinnetje amaiam
