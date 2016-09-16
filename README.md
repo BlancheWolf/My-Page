@@ -66,3 +66,6 @@ Hey hey als je op een dag als vandaag, 19 augustus, je verveeld moet je gewoon f
 Dit helpt echt tegen de verveling :)
 Of ga iemand in Real Life lastig vallen met dingen over Github ;")
 Wat ook heel goed helpt is Arduino gaan doen, heel rustgevend ;)
+
+Vandaag, 16 september, ga ik met amaiam bezig met ons robotautootje die reageert op licht
+We gaan nu beginnen met de koppeling dus voor nu doei doei!!!!
