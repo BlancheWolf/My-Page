@@ -1,6 +1,4 @@
 # My Page
-# X|̿ \͇||͇̿ ͇̿ ͇̿||̶͇̿ ̶͇̿ ͇̿ |̿ V ̿|||̶͇̿ ̶͇̿ ͇̿ X
-# |̶̿ ̶̿ ̶̿ ̶̿||̿ V ̿||̶̿ ̶̿ ̶̿ ̶̿|||̶̿ ̶̿ ̶̿ ̶̿||̿ V ̿|
 
 Hello on my page.
 I like arduino and I love wolves.
