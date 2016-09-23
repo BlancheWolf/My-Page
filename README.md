@@ -45,6 +45,8 @@ Hoe maak je kortsluiting: Gooi water op iets waar stroom op staat.
 
 Hoe maak je jezelf statisch: Doe je vingers in het stopcontact.
 
+Ps. Doe dit niet!!!!!
+
 Ik heb een vraag voor jullie: Wat doe je nu?
 
 Een lijst gaat zo:
