@@ -1,5 +1,7 @@
 # My Page
 
+! [Wolves are the best] (Wolvengroep.jpg)
+
 Hello on my page.
 I like arduino and I love wolves.
 Thanks and look again on this page.
