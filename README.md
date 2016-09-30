@@ -78,3 +78,7 @@ Oke hier ben ik weer, het gaat nog even duren dus nog ff wat op github zetten :)
 Maar kijk vooral even bij mijn vriendinnetje amaiam
 
 Een Kaaskip is mijn beste vrienden samen met nog een paar prettig gestoorde Kippies ;) :)
+
+En natuurlijk kan deze dag (30 september) niet ontbreken in mijn lijstje =)
+Ik ben nu aan het wachten op amaiam en ze is wat langzaam...
+Duss... En daar is ze !!
