@@ -82,3 +82,6 @@ Een Kaaskip is mijn beste vrienden samen met nog een paar prettig gestoorde Kipp
 En natuurlijk kan deze dag (30 september) niet ontbreken in mijn lijstje =)
 Ik ben nu aan het wachten op amaiam en ze is wat langzaam...
 Duss... En daar is ze !!
+
+Er is een open dag vandaag, het is 1 oktober:)
+Er komen veel mensen die we hopelijk allemaal gaan helpen
