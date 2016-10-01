@@ -85,3 +85,7 @@ Duss... En daar is ze !!
 
 Er is een open dag vandaag, het is 1 oktober:)
 Er komen veel mensen die we hopelijk allemaal gaan helpen
+
+Hoihoi we hebben al veel mensen geholpen op de open dag en zijn daar nu nog steeds mee bezig :)
+En ik ben een wandelend reclame bord ;)
+Maar het hielp wel, er zijn al meer dan 30 mensen bij ons geweest :)
