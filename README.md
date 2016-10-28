@@ -40,6 +40,7 @@ I Like You!!
 
 Ik ga met amaiam een robot platform laten rijden en hij reageert op licht!!!
 Nou ja, hij moet de zaklamp gaan volgen.
+
 Maar we maken er nog een kat van.
 
 Hoe maak je kortsluiting: Gooi water op iets waar stroom op staat.
@@ -89,3 +90,7 @@ Er komen veel mensen die we hopelijk allemaal gaan helpen
 Hoihoi we hebben al veel mensen geholpen op de open dag en zijn daar nu nog steeds mee bezig :)
 En ik ben een wandelend reclame bord ;)
 Maar het hielp wel, er zijn al meer dan 30 mensen bij ons geweest :)
+
+Vorige week heb ik samen met amaiam ons robot autootje af gemaakt en hij werkte!
+We waren zo blij :)
+Hij volgde het lichtje perfect!
