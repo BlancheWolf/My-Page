@@ -11,4 +11,4 @@ Natuurlijk ken ik ook de wolventaal een beetje maar kijk daarvoor bij Wolves_fan
 Verder maak ik een verhaal om het leven van een wolf ong te weergeven ;)
 
 Ik wil graag een wolf opvoeden en dan nog meer wolventaal leren !!
-Als ik een wolf zou zijn zou ik er zo uitzien:
+Natuurlijk betrek ik jullie er ook bij :) (Ik ga een geheime codetaal maken, als jullie die willen weten, WHOEHAHAHA)
