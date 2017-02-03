@@ -16,4 +16,7 @@ Natuurlijk betrek ik jullie er ook bij :) (Ik ga een geheime codetaal maken, als
   
    
     
-Samen met amaiam werk ik aan een robotauto die een lichtje volgt
+Samen met amaiam werk ik aan een robotauto die een lichtje volgt (hij heet Plubby =))
+We zijn er nu mee bezig om hem het lichtje echt te laten volgen, momenteel heeft hij een afwijking naar links (of rechts) 
+
+Doeii en groetjes van mij =3
