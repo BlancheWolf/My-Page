@@ -12,3 +12,8 @@ Verder maak ik een verhaal om het leven van een wolf ong te weergeven ;)
 
 Ik wil graag een wolf opvoeden en dan nog meer wolventaal leren !!
 Natuurlijk betrek ik jullie er ook bij :) (Ik ga een geheime codetaal maken, als jullie die willen weten, WHOEHAHAHA)
+ 
+  
+   
+    
+Samen met amaiam werk ik aan een robotauto die een lichtje volgt
