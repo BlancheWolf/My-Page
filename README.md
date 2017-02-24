@@ -11,12 +11,19 @@ Natuurlijk ken ik ook de wolventaal een beetje maar kijk daarvoor bij Wolves_fan
 Verder maak ik een verhaal om het leven van een wolf ong te weergeven ;)
 
 Ik wil graag een wolf opvoeden en dan nog meer wolventaal leren !!
-Natuurlijk betrek ik jullie er ook bij :) (Ik ga een geheime codetaal maken, als jullie die willen weten, WHOEHAHAHA)
- 
-  
-   
-    
+Natuurlijk betrek ik jullie er ook bij :)
+
 Samen met amaiam werk ik aan een robotauto die een lichtje volgt (hij heet Plubby =))
 We zijn er nu mee bezig om hem het lichtje echt te laten volgen, momenteel heeft hij een afwijking naar links (of rechts) 
+Plubby bestaat uit:
+- Een robotplatform
+- Arduino
+- Klein broodboard
+- 2 LDR's
+- ... draadjes (Ik ga zo nog ff natellen)
+- ... weerstanden (Moet ik ook nog ff natellen)
+- Platte batterij (Weet niet hoeveel VOLT)
+
+We zijn er druk mee bezig en hopen dat hij voor de zomervakantie geen afwijking meer heeft en dat hij het dan echt doet
 
 Doeii en groetjes van mij =3
