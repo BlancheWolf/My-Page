@@ -1,4 +1,4 @@
- # ᗰY ᑭᗩGᕮ
+# ᗰY ᑭᗩGᕮ
 
 ![Wolves are the best] (  Wolvengroep.jpg )
 
@@ -35,6 +35,7 @@ He he, vandaag heb ik alle tijd om meerdere dingen te doen zoals:
 - Solderen
 - Lezen
 - Verhaal schrijven
+
 Flink lijstje dus nu kiezen...
 
 
