@@ -1,4 +1,4 @@
-# ᗰY ᑭᗩGᕮ
+ # ᗰY ᑭᗩGᕮ
 
 ![Wolves are the best] (  Wolvengroep.jpg )
 
@@ -18,12 +18,24 @@ We zijn er nu mee bezig om hem het lichtje echt te laten volgen, momenteel heeft
 Plubby bestaat uit:
 - Een robotplatform
 - Arduino
-- Klein broodboard
+- Klein broodboard (echt klein hoor!)
 - 2 LDR's
 - ... draadjes (Ik ga zo nog ff natellen)
 - ... weerstanden (Moet ik ook nog ff natellen)
 - Platte batterij (Weet niet hoeveel VOLT)
 
 We zijn er druk mee bezig en hopen dat hij voor de zomervakantie geen afwijking meer heeft en dat hij het dan echt doet
+
+10 maart 2017
+
+He he, vandaag heb ik alle tijd om meerdere dingen te doen zoals:
+- Tekenen
+- Github
+- Scratch
+- Solderen
+- Lezen
+- Verhaal schrijven
+Flink lijstje dus nu kiezen...
+
 
 Doeii en groetjes van mij =3
