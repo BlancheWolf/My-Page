@@ -1,6 +1,6 @@
 # ᗰY ᑭᗩGᕮ
 
-![Wolves are the best] (  Wolvengroep.jpg )
+![Wolves are the best]( Wolvengroep.jpg )
 
 Hii, ik ben BlancheWolf
 
