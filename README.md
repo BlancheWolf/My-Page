@@ -8,8 +8,6 @@ Ik hou van wolven en als het aan mij ligt zou ik de hele dag met ze knuffelen :)
 Maar helaas kan dat niet :"(
 Natuurlijk ken ik ook de wolventaal een beetje maar kijk daarvoor bij Wolves_fanpage
 
-Verder maak ik een verhaal om het leven van een wolf ong te weergeven ;)
-
 Ik wil graag een wolf opvoeden en dan nog meer wolventaal leren !!
 Natuurlijk betrek ik jullie er ook bij :)
 
@@ -26,17 +24,6 @@ Plubby bestaat uit:
 
 We zijn er druk mee bezig en hopen dat hij voor de zomervakantie geen afwijking meer heeft en dat hij het dan echt doet
 
-10 maart 2017
-
-He he, vandaag heb ik alle tijd om meerdere dingen te doen zoals:
-- Tekenen
-- Github
-- Scratch
-- Solderen
-- Lezen
-- Verhaal schrijven
-
-Flink lijstje dus nu kiezen...
 
 
 Doeii en groetjes van mij =3
